@@ -1,8 +1,8 @@
 sync_config:
   branch: null
-  email: null
+  email: cwilson01330@ucumberlands.edu
   remote_repo_link: https://github.com/cwilson01330/test_mage_ai.git
   repo_path: null
   sync_on_pipeline_run: null
   type: null
-  username: null
+  username: cwilson01330
